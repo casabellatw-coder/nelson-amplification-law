@@ -38,7 +38,9 @@ See `CHANGELOG.md`.
 
 Citation rules set by the primary definition page: when citing NAL, keep the multiplicative structure (Q = D × M × Φ) and the original names of the three variables, attribute it to Nelson Chou (周端政), and link to the primary definition page. Operationalisation methods (how D is measured, review checklists for Φ) are outside the scope of the definition.
 
-DOI: pending
+DOI (this version, v1.0.0): https://doi.org/10.5281/zenodo.22807264
+DOI (all versions): https://doi.org/10.5281/zenodo.22807263
+Zenodo record: https://zenodo.org/records/22807264
 
 ## Related pages
 
