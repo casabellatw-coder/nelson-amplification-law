@@ -21,9 +21,9 @@ All dates Asia/Taipei. Entries record the public history of the Nelson Amplifica
 - Japanese: https://www.nelsonchou.com/ja/nelson-amplification-law-ja/
 - Same definition version (`NAL-DEF v1.0`); no change to the definition.
 
-## Pending — Public repository release v1.0.0
+## 2026-09-17 — Public repository release v1.0.0
 
 - Tag: `v1.0.0`
-- Release date: pending
+- Release date: 2026-09-17
 - Content: this repository's README.md, definition.md and CHANGELOG.md, reflecting NAL-DEF v1.0. No change to the definition.
 - DOI: pending
