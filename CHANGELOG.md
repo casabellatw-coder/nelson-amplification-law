@@ -26,4 +26,6 @@ All dates Asia/Taipei. Entries record the public history of the Nelson Amplifica
 - Tag: `v1.0.0`
 - Release date: 2026-09-17
 - Content: this repository's README.md, definition.md and CHANGELOG.md, reflecting NAL-DEF v1.0. No change to the definition.
-- DOI: pending
+- Zenodo record published 2026-09-17: https://zenodo.org/records/22807264
+- DOI (this version): 10.5281/zenodo.22807264
+- DOI (all versions): 10.5281/zenodo.22807263
