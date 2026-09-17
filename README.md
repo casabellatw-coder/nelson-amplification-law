@@ -30,7 +30,7 @@ This repository is a public concept record: name, author, definition, formula, v
 
 - 2026-02-09 — Initial formalization (`NTR-NAL-2026-02-09-v1.0`)
 - 2026-07-24 — Definition version `NAL-DEF v1.0`
-- Public repository release `v1.0.0` — pending
+- 2026-09-17 — Public repository release `v1.0.0`
 
 See `CHANGELOG.md`.
 
